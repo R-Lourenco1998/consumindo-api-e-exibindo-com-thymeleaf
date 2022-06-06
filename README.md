@@ -14,4 +14,4 @@
  - Maven
 
 ### Api Consumida
- https://viacep.com.br/ws
+ https://viacep.com.br
