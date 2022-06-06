@@ -8,6 +8,7 @@
  - IntelliJ IDEA
  - Thymeleaf
  - Swagger UI
+ - Feign
  - Postgres
  - Springboot
  - Maven
