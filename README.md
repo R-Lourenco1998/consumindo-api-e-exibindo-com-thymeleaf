@@ -12,3 +12,6 @@
  - Postgres
  - Springboot
  - Maven
+
+### Api Consumida
+ https://viacep.com.br/ws
