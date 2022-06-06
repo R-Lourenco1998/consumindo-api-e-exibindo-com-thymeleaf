@@ -9,7 +9,7 @@
  - Thymeleaf
  - Swagger UI
  - Feign
- - Postgres
+ - Postgres SQL
  - Springboot
  - Maven
 
